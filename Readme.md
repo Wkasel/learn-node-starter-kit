@@ -27,7 +27,7 @@ Written by William Kasel
   - quick note, I recommend working in some directory inside your `~/` directory.
   - in terminal, run `node -v`, this is your node version. Also, ensure NPM installed correctly via `npm -v`.
   - a few notes sometimes you might get issues depending what features of Node.js packages are using, so it's also recommended you install xcode dev tools via `xcode-select --install`, then `sudo xcode-select --switch /Library/Developer/CommandLineTools` [full article](https://github.com/nodejs/node-gyp/issues/569)
-3. Git Clone this repo, `cd` to the directory name via `cd learn-node-starter-kit` type `npm install` (note: `npm` is your node package manager, it's your go-to tool to install anything, everything, run tasks, and various scripts)
+3. Git Clone this repo, `cd` to the directory name via `cd learn-node-starter-kit/demo` type `npm install` (note: `npm` is your node package manager, it's your go-to tool to install anything, everything, run tasks, and various scripts)
 
 > _Checkpoint_: you now have Node setup, and a repository cloned
 
@@ -37,4 +37,5 @@ Written by William Kasel
 
 
 ## Getting Started
- - Ok, so you've cloned this repo, you've got node installed, let's write some code. 
+ - Ok, so you've cloned this repo, you've got node installed, let's write some code.
+ - 
